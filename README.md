@@ -2,7 +2,6 @@ Obstacle Detection System using IR Sensor, LED, and Buzzer
 
 ![ezgif-7-aca07e6e07](https://github.com/user-attachments/assets/36915d6d-9c35-4c45-8525-66432f8ea9e0)
 ![Screenshot 2024-10-06 125834](https://github.com/user-attachments/assets/fcf4eeed-4dd6-4a9d-b221-b2b34354d3dd)
-![ezgif-7-537916eb93](https://github.com/user-attachments/assets/98a003dc-887b-45f4-a7d9-58cba259a2f1)
 
 This Arduino-based project detects obstacles using an IR sensor and responds by lighting up an LED and sounding a buzzer. The system is simple yet effective for applications like proximity detection or alert systems. Below is a breakdown of the setup:
 
